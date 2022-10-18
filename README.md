@@ -1,2 +1,2 @@
 # GAP-group-search
-Scan through the SmallGroups library of all the finite groups of order smaller than 2 000 to identifying the groups that possess a faithful dimensional irreducible representation and cannot be written as the direct product of a smaller group times a cyclic group.
+Scan through the SmallGroups library of all the finite groups of order smaller than 2 001 to identifying the groups that possess a faithful dimensional irreducible representation and cannot be written as the direct product of a smaller group times a cyclic group.
