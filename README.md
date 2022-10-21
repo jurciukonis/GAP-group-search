@@ -1,5 +1,5 @@
 # Database of discrete groups of order O ≤ 2000
-Scan through the [SmallGroups](https://www.gap-system.org/Packages/smallgrp.html) library of all the finite groups of order smaller than 2 001 to identifying the groups that possess a faithful dimensional irreducible representation and cannot be written as the direct product of a smaller group times a cyclic group.		
+Scan through the [SmallGroups](https://www.gap-system.org/Packages/smallgrp.html) library of all the finite groups of order smaller than 2001 to identifying the groups that possess a faithful dimensional irreducible representation and cannot be written as the direct product of a smaller group times a cyclic group.		
 
 - We identify the center $Z_N$ of each of those groups, and also the dimensions $D$ of their faithful irreducible representations.
 
