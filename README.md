@@ -1,5 +1,5 @@
 # Database of discrete groups of order O ≤ 2000
-Scan through the SmallGroups library of all the finite groups of order smaller than 2 001 to identifying the groups that possess a faithful dimensional irreducible representation and cannot be written as the direct product of a smaller group times a cyclic group.		
+Scan through the [SmallGroups](https://www.gap-system.org/Packages/smallgrp.html) library of all the finite groups of order smaller than 2 001 to identifying the groups that possess a faithful dimensional irreducible representation and cannot be written as the direct product of a smaller group times a cyclic group.		
 
 - We identify the center $Z_N$ of each of those groups, and also the dimensions $D$ of their faithful irreducible representations.
 
@@ -7,7 +7,7 @@ Scan through the SmallGroups library of all the finite groups of order smaller t
 
 - We have thus obtained 87,349 non-isomorphic groups, that are all listed in our tables available in files "database/groups.xlsx" and "database/groups.ods".
 
-- Some GAP source codes available in folder "src".
+- Some [GAP](https://www.gap-system.org) source codes available in folder "src".
 
 - For more information about centers and computation methods see ref. [1]. For more information on each discrete subgroups of U(3) and SU(3) see ref. [2].
 
