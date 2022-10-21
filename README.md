@@ -7,7 +7,7 @@ Scan through the [SmallGroups](https://www.gap-system.org/Packages/smallgrp.html
 
 - We have thus obtained 87,349 non-isomorphic groups, that are all listed in our tables available in files "database/groups.xlsx" and "database/groups.ods".
 
-- Some [GAP](https://www.gap-system.org) source codes available in folder "src".
+- Some [GAP](https://www.gap-system.org) inpute codes available in folder "src".
 
 - For more information about centers and computation methods see ref. [1]. For more information on each discrete subgroups of U(3) and SU(3) see ref. [2].
 
