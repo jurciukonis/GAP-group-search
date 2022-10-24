@@ -7,7 +7,7 @@ This is a scan through the [SmallGroups](https://www.gap-system.org/Packages/sma
 
 - Some [GAP](https://www.gap-system.org) inpute codes are available in folder "src".
 
-- For more information about the centers and computation methods see ref. [1]. For more information on each discrete subgroup of U(3) and SU(3) see ref. [2].
+- For more information about the centers and computation methods see ref. [[1](https://arxiv.org/abs/2210.12133)]. For more information on each discrete subgroup of U(3) and SU(3) see ref. [[2](https://arxiv.org/abs/1702.00005)].
 
 **If you use this database for a publication, please cite these references:**
 
