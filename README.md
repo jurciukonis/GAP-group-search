@@ -11,6 +11,6 @@ This is a scan through the [SmallGroups](https://www.gap-system.org/Packages/sma
 
 **If you use this database for a publication, please cite these references:**
 
-[[1](https://arxiv.org/abs/2210.12133)] D. Jurčiukonis and L. Lavoura, The centers of discrete groups as stabilizers of Dark Matter, [arXiv:2210.12133](https://arxiv.org/abs/2210.12133)
+[[1](https://arxiv.org/abs/2210.12133)] D. Jurčiukonis and L. Lavoura, The centers of discrete groups as stabilizers of Dark Matter, [arXiv:2210.12133](https://arxiv.org/abs/2210.12133).
 
 [[2](https://arxiv.org/abs/1702.00005)] D. Jurčiukonis and L. Lavoura, GAP listing of the finite subgroups of U(3) of order smaller than 2000,  PTEP 2017 (2017) 5, 053A03, [e-Print: [arXiv:1702.00005](https://arxiv.org/abs/1702.00005)].
