@@ -3,9 +3,9 @@ This is a scan through the [SmallGroups](https://www.gap-system.org/Packages/sma
 
 - Groups of orders 512, 1024, and 1536 are not displayed in database.
 
-- We have obtained 87,349 non-isomorphic groups, that are all listed in our tables available in files "database/groups.xlsx" and "database/groups.ods".
+- We have obtained 87,349 non-isomorphic groups, that are all listed in our tables available in files ["database/groups.xlsx"](https://github.com/jurciukonis/GAP-group-search/blob/main/database/groups.xlsx) and ["database/groups.ods"](https://github.com/jurciukonis/GAP-group-search/blob/main/database/groups.ods).
 
-- Some [GAP](https://www.gap-system.org) inpute codes are available in folder "src".
+- Some [GAP](https://www.gap-system.org) inpute codes are available in folder ["src"](https://github.com/jurciukonis/GAP-group-search/tree/main/src).
 
 - For more information about the centers and computation methods see ref. [[1](https://arxiv.org/abs/2210.12133)]. For more information on each discrete subgroup of U(3) and SU(3) see ref. [[2](https://arxiv.org/abs/1702.00005)].
 
