@@ -3,7 +3,7 @@ This is a scan through the [SmallGroups](https://www.gap-system.org/Packages/sma
 
 - Groups of orders 512, 1024, and 1536 are not displayed in database.
 
-- We have obtained 87,349 non-isomorphic groups, that are all listed in our tables available in files ["database/groups.xlsx"](https://github.com/jurciukonis/GAP-group-search/blob/main/database/groups.xlsx) and ["database/groups.ods"](https://github.com/jurciukonis/GAP-group-search/blob/main/database/groups.ods).
+- We have obtained 87,349 non-isomorphic groups, that are all listed in our tables available in files ["database/groups.xlsx"](https://github.com/jurciukonis/GAP-group-search/blob/main/database) and ["database/groups.ods"](https://github.com/jurciukonis/GAP-group-search/blob/main/database).
 
 - Some [GAP](https://www.gap-system.org) inpute codes are available in folder ["src"](https://github.com/jurciukonis/GAP-group-search/tree/main/src).
 
